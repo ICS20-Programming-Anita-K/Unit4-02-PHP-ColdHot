@@ -1,0 +1,32 @@
+/* Created by: Anita Kay
+* Created on: April 2022
+* This CSS file defines the style for index.php
+* Unit4-02-PHP-ColdHot
+*/
+
+body {
+	background-color: rgb(236, 204, 167);
+}
+
+h1 {
+	background-color: rgb(169, 196, 249);
+	color: hsl(0, 0%, 0%);
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: rgb(169, 196, 249);
+}
+
+div {
+	
+  font-weight: bold;
+  color: #050505;
+  margin: 5px;
+}
+
+#display-results{
+	background-color: rgb(169, 196, 249);
+	font-size: 20px;
+}
